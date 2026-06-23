@@ -12,27 +12,27 @@
   <tr>
     <td width="20%" valign="top">
       <b>MyEcho</b><br/>
-      <sub>Desktop / AI</sub><br/>
+      <sub>Desktop / AI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub><br/>
       微信聊天分析
     </td>
     <td width="20%" valign="top">
       <b>MyStudio</b><br/>
-      <sub>Web / AI</sub><br/>
+      <sub>Web / AI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub><br/>
       AI 生图工作台
     </td>
     <td width="20%" valign="top">
       <b>MyTravelJournal</b><br/>
-      <sub>iOS</sub><br/>
+      <sub>iOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub><br/>
       旅行日志
     </td>
     <td width="20%" valign="top">
       <b>MyKitchen</b><br/>
-      <sub>iOS / AI</sub><br/>
+      <sub>iOS / AI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub><br/>
       AI 食谱
     </td>
     <td width="20%" valign="top">
       <b>Coco</b><br/>
-      <sub>Desktop / DevOps</sub><br/>
+      <sub>Desktop / DevOps&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub><br/>
       Docker 管理
     </td>
   </tr>
