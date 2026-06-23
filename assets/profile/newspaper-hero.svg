@@ -1,8 +1,8 @@
-<svg width="1200" height="620" viewBox="0 0 1200 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">我的晚报 · GitHub 特刊</title>
-  <desc id="desc">Sinton 的 GitHub Profile 报纸风头版，展示独立开发者、全栈开发者、作品索引、技术栈和个人博客。</desc>
+<svg width="1200" height="1300" viewBox="0 0 1200 1300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">我的简报 · Profile 特刊（WOFF2 子集版）</title>
+  <desc id="desc">WOFF2 子集方案：标题保留为文本，并内嵌包含“我的简报”的 Zhi Mang Xing 字体子集。</desc>
   <defs>
-    <linearGradient id="paper" x1="0" y1="0" x2="1200" y2="620" gradientUnits="userSpaceOnUse">
+    <linearGradient id="paper" x1="0" y1="0" x2="1200" y2="1300" gradientUnits="userSpaceOnUse">
       <stop stop-color="#F8EEDC"/>
       <stop offset="0.52" stop-color="#F3E4C7"/>
       <stop offset="1" stop-color="#EAD6B1"/>
@@ -15,77 +15,157 @@
       <path d="M44 0H0V44" stroke="#8B7658" stroke-opacity="0.12" stroke-width="1"/>
     </pattern>
     <filter id="shadow" x="-4%" y="-4%" width="108%" height="108%">
-      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#3A2A1D" flood-opacity="0.18"/>
+      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#3A2A1D" flood-opacity="0.18"/>
     </filter>
-    <style>
+    <style>      @font-face { font-family: "Zhi Mang Xing"; font-style: normal; font-weight: 400; src: url("data:font/woff2;base64,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") format("woff2"); unicode-range: U+6211,U+7684,U+7B80,U+62A5; }
       .headline { font-family: "Noto Serif SC", "Songti SC", "STSong", "SimSun", serif; }
+      .zhimang { font-family: "Zhi Mang Xing", "ZhiMangXing", "Zhi Mang Xing Regular", "Kaiti SC", "STKaiti", "KaiTi", cursive; }
       .kai { font-family: "Kaiti SC", "STKaiti", "KaiTi", serif; }
       .mono { font-family: "JetBrains Mono", "SFMono-Regular", Consolas, monospace; }
       .ink { fill: #18120D; }
       .soft { fill: #5D4A36; }
       .red { fill: #A33A2D; }
       .micro { font-size: 14px; letter-spacing: 1.8px; font-weight: 700; }
+      .body { font-size: 18px; font-weight: 700; }
     </style>
   </defs>
 
-  <rect width="1200" height="620" rx="26" fill="#2A2118" opacity="0.16"/>
+  <rect width="1200" height="1300" rx="26" fill="#2A2118" opacity="0.16"/>
   <g filter="url(#shadow)">
-    <rect x="34" y="30" width="1132" height="560" rx="12" fill="url(#paper)"/>
-    <rect x="34" y="30" width="1132" height="560" rx="12" fill="url(#grain)"/>
-    <rect x="34" y="30" width="1132" height="560" rx="12" fill="url(#columns)" opacity="0.6"/>
-    <rect x="58" y="54" width="1084" height="512" rx="2" stroke="#18120D" stroke-width="3"/>
-    <rect x="70" y="66" width="1060" height="488" rx="1" stroke="#18120D" stroke-width="1.2"/>
+    <rect x="34" y="30" width="1132" height="1150" rx="12" fill="url(#paper)"/>
+    <rect x="34" y="30" width="1132" height="1150" rx="12" fill="url(#grain)"/>
+    <rect x="34" y="30" width="1132" height="1150" rx="12" fill="url(#columns)" opacity="0.6"/>
+    <rect x="58" y="54" width="1084" height="1102" rx="2" stroke="#18120D" stroke-width="3"/>
+    <rect x="70" y="66" width="1060" height="1078" rx="1" stroke="#18120D" stroke-width="1.2"/>
 
     <g class="mono micro soft">
-      <text x="90" y="99">GITHUB PROFILE / SPECIAL EDITION</text>
-      <text x="1110" y="99" text-anchor="end">SINTON · L0101.COM</text>
+      <text x="1110" y="99" text-anchor="end">Sinton · l0101.com</text>
     </g>
     <path d="M90 116H1110" stroke="#18120D" stroke-width="1.6"/>
     <path d="M90 123H1110" stroke="#18120D" stroke-width="0.8"/>
 
-    <text x="600" y="188" class="headline ink" text-anchor="middle" font-size="76" font-weight="900" letter-spacing="4">我的晚报</text>
-    <text x="600" y="226" class="kai red" text-anchor="middle" font-size="28" font-weight="800" letter-spacing="8">GITHUB 特刊</text>
+    <text x="600" y="218" class="zhimang ink" text-anchor="middle" font-size="86" font-weight="400" letter-spacing="1">我的简报</text>
 
     <path d="M90 252H1110" stroke="#18120D" stroke-width="5"/>
     <path d="M90 264H1110" stroke="#18120D" stroke-width="1.2"/>
 
-    <g>
-      <rect x="90" y="292" width="188" height="172" fill="#F5E7CC" stroke="#18120D" stroke-width="1.4"/>
-      <text x="114" y="328" class="mono micro red">DEVELOPER CARD</text>
-      <text x="114" y="369" class="headline ink" font-size="34" font-weight="900">Sinton</text>
-      <text x="114" y="402" class="kai soft" font-size="21" font-weight="700">独立开发者</text>
-      <text x="114" y="432" class="kai soft" font-size="21" font-weight="700">全栈开发者</text>
+    <g transform="translate(980 150) rotate(-8)">
+      <rect x="0" y="0" width="135" height="56" rx="2" fill="none" stroke="#A33A2D" stroke-width="3"/>
+      <text x="70" y="34" class="kai red" text-anchor="middle" font-size="22" font-weight="900" letter-spacing="0">Github 特刊</text>
     </g>
 
     <g>
-      <rect x="304" y="292" width="572" height="172" fill="#F9EED8" stroke="#18120D" stroke-width="1.4"/>
-      <text x="330" y="329" class="mono micro red">BUILDING PERSONAL SOFTWARE FOR REAL LIFE</text>
-      <text x="330" y="360" class="headline ink" font-size="38" font-weight="900">把真实需求做成</text>
-      <text x="330" y="400" class="headline ink" font-size="38" font-weight="900">长期维护的小产品</text>
-      <text x="330" y="430" class="kai soft" font-size="20" font-weight="700">iOS · Desktop · Web · Backend</text>
-      <text x="330" y="454" class="kai soft" font-size="20" font-weight="700">DevOps · AI · Swift · Rust · Java · Python</text>
+      <rect x="90" y="292" width="250" height="192" fill="#F5E7CC" stroke="#18120D" stroke-width="1.4"/>
+      <text x="114" y="328" class="mono micro red">开发者名片</text>
+      <text x="114" y="374" class="headline ink" font-size="42" font-weight="900">Sinton</text>
+      <text x="114" y="406" class="kai soft" font-size="22" font-weight="700">独立开发者</text>
+      <text x="114" y="431" class="kai soft" font-size="22" font-weight="700">全栈开发者</text>
+      <path d="M114 448H316" stroke="#A33A2D" stroke-width="1.4"/>
+      <text x="114" y="472" class="mono soft" font-size="17" font-weight="800">iOS · Desktop · Web</text>
     </g>
 
     <g>
-      <rect x="902" y="292" width="208" height="172" fill="#F5E7CC" stroke="#18120D" stroke-width="1.4"/>
-      <text x="926" y="328" class="mono micro red">BLOG</text>
-      <text x="926" y="369" class="headline ink" font-size="28" font-weight="900">博客专栏</text>
-      <text x="926" y="405" class="mono soft" font-size="18" font-weight="800">www.l0101.com</text>
+      <rect x="362" y="292" width="514" height="192" fill="#F9EED8" stroke="#18120D" stroke-width="1.4"/>
+      <text x="388" y="329" class="mono micro red">Profile 导览</text>
+      <text x="388" y="363" class="kai ink" font-size="24" font-weight="800">作品矩阵 / 技术栈 / 博客入口</text>
+      <text x="388" y="397" class="kai soft" font-size="20" font-weight="700">项目作品、工程能力和长期记录</text>
+      <text x="388" y="428" class="kai soft" font-size="18" font-weight="700">更多技术 / 产品 / 生活记录见 l0101.com</text>
+    </g>
+
+    <g>
+      <rect x="902" y="292" width="208" height="192" fill="#F5E7CC" stroke="#18120D" stroke-width="1.4"/>
+      <text x="926" y="328" class="mono micro red">博客专栏</text>
+      <text x="926" y="369" class="headline ink" font-size="30" font-weight="900">l0101.com</text>
       <path d="M926 426H1086" stroke="#A33A2D" stroke-width="1.4"/>
-      <text x="926" y="454" class="kai soft" font-size="18" font-weight="700">作品 · 随笔 · 旅行</text>
+      <text x="926" y="458" class="mono soft" font-size="14" font-weight="800">技术 / 产品 / 生活记录</text>
     </g>
 
-    <path d="M90 492H1110" stroke="#18120D" stroke-width="1.4"/>
-    <g class="mono micro ink">
-      <text x="92" y="526">作品索引</text>
-      <text x="214" y="526" class="soft">MyEcho · MyStudio · MyTravelJournal · MyKitchen · MyDocker</text>
-      <text x="92" y="552">技术栈</text>
-      <text x="214" y="552" class="soft">iOS · Desktop · Web · Backend · DevOps · AI</text>
+    <path d="M90 516H1110" stroke="#18120D" stroke-width="1.4"/>
+
+    <g>
+      <text x="90" y="552" class="mono micro red">作品索引</text>
+      <rect x="90" y="572" width="1020" height="288" fill="#F7EAD0" stroke="#18120D" stroke-width="1.2"/>
+      <path d="M90 668H1110M90 764H1110M294 572V860M498 572V860M702 572V860M906 572V860" stroke="#8B7658" stroke-opacity="0.55"/>
+      <g class="kai ink" font-size="19" font-weight="800">
+        <text x="114" y="610">MyEcho</text>
+        <text x="318" y="610">MyStudio</text>
+        <text x="522" y="610" font-size="16">MyTravelJournal</text>
+        <text x="726" y="610">MyKitchen</text>
+        <text x="930" y="610">Coco</text>
+        <text x="114" y="706">MyPet</text>
+        <text x="318" y="706">MySleep</text>
+        <text x="522" y="706">MyAlarm</text>
+        <text x="726" y="706">MySurvival</text>
+        <text x="930" y="706">MyOBD</text>
+        <text x="114" y="802" font-size="16">MyRemoteTouch</text>
+        <text x="318" y="802">MyIOT</text>
+        <text x="522" y="802">MyMusic</text>
+        <text x="726" y="802">MyResume</text>
+        <text x="930" y="802" class="kai" font-size="18">乐享友邻</text>
+      </g>
+      <g class="kai soft" font-size="14" font-weight="700">
+        <text x="114" y="635">微信聊天分析</text>
+        <text x="318" y="635">AI 生图工作台</text>
+        <text x="522" y="635">旅行日志</text>
+        <text x="726" y="635">AI 食谱</text>
+        <text x="930" y="635">Docker 管理</text>
+        <text x="114" y="730">电子宠物</text>
+        <text x="318" y="730">白噪音睡眠</text>
+        <text x="522" y="730">牛马闹钟</text>
+        <text x="726" y="730">牛马生存成本</text>
+        <text x="930" y="730">汽车诊断</text>
+        <text x="114" y="826">远程控制</text>
+        <text x="318" y="826">智能家居</text>
+        <text x="522" y="826">聚合音乐</text>
+        <text x="726" y="826">智能简历</text>
+        <text x="930" y="826">社区小程序</text>
+      </g>
+      <g class="mono soft" font-size="12" font-weight="650">
+        <text x="114" y="656">Desktop / AI</text>
+        <text x="318" y="656">Web / AI</text>
+        <text x="522" y="656">iOS</text>
+        <text x="726" y="656">iOS / AI</text>
+        <text x="930" y="656">Desktop / DevOps</text>
+        <text x="114" y="750">iOS</text>
+        <text x="318" y="750">iOS</text>
+        <text x="522" y="750">iOS</text>
+        <text x="726" y="750">iOS</text>
+        <text x="930" y="750">iOS</text>
+        <text x="114" y="846">iOS</text>
+        <text x="318" y="846">iOS</text>
+        <text x="522" y="846">Desktop</text>
+        <text x="726" y="846">Web / AI</text>
+        <text x="930" y="846">Mini Program</text>
+      </g>
     </g>
 
-    <g transform="translate(1014 150) rotate(-8)">
-      <rect x="0" y="0" width="112" height="56" rx="2" fill="none" stroke="#A33A2D" stroke-width="3"/>
-      <text x="56" y="34" class="kai red" text-anchor="middle" font-size="20" font-weight="900" letter-spacing="3">持续更新</text>
+    <g>
+      <text x="90" y="894" class="mono micro red">技术栈</text>
+      <rect x="90" y="916" width="1020" height="224" fill="#F5E7CC" stroke="#18120D" stroke-width="1.2"/>
+      <path d="M430 916V1140M770 916V1140M90 1028H1110" stroke="#8B7658" stroke-opacity="0.55"/>
+      <g class="kai ink" font-size="20" font-weight="800">
+        <text x="114" y="946">iOS</text>
+        <text x="454" y="946">Desktop</text>
+        <text x="794" y="946">Web</text>
+        <text x="114" y="1055">Backend</text>
+        <text x="454" y="1055">DevOps</text>
+        <text x="794" y="1055">AI</text>
+      </g>
+      <g class="kai soft" font-size="15" font-weight="700">
+        <text x="114" y="976">Swift / UIKit / SwiftUI</text>
+        <text x="114" y="1000">Xcode / App Store</text>
+        <text x="454" y="976">Rust / Tauri / WPF</text>
+        <text x="794" y="976">React / Vue / TypeScript</text>
+        <text x="794" y="1000">Tailwind CSS / Vite / Astro</text>
+        <text x="114" y="1081">Java / Spring Boot / Spring Cloud</text>
+        <text x="114" y="1104">Python / FastAPI / Go</text>
+        <text x="114" y="1127">MySQL / PostgreSQL / Redis</text>
+        <text x="454" y="1081">Docker / Git / Linux</text>
+        <text x="454" y="1104">K8S / CI/CD</text>
+        <text x="794" y="1081">OpenAI / LangChain / RAG</text>
+        <text x="794" y="1104">Agent / Workflow Automation</text>
+      </g>
     </g>
   </g>
 </svg>
+
