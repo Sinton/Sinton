@@ -1,0 +1,21 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Logs / temp
+*.log
+*.tmp
+tmp/
+temp/
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Local agent/editor metadata
+.agents/
+.codex/
