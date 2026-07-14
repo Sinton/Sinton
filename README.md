@@ -131,12 +131,12 @@
 
 [访问博客](https://www.l0101.com)
 
-## GitHub Telemetry
+## GitHub 电讯
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinton&layout=compact&theme=default&hide_border=true&bg_color=F8EEDC&title_color=18120D&text_color=5D4A36&icon_color=A33A2D" alt="Most Used Languages" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sinton&theme=solarized" alt="Repositories per Language" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sinton&show_icons=true&theme=default&hide_border=true&bg_color=F8EEDC&title_color=18120D&icon_color=A33A2D&text_color=5D4A36" alt="GitHub Stats" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sinton&theme=solarized" alt="GitHub Stats" />
 
 </div>
