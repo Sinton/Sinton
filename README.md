@@ -131,14 +131,16 @@
 
 [访问博客](https://www.l0101.com)
 
-## GitHub 电讯
-
-由 GitHub Actions 定时生成静态 SVG，避免依赖第三方实时接口。
+## 开发者电讯
 
 <div align="center">
 
-<img height="180em" src="./profile-summary-card-output/solarized/1-repos-per-language.svg" alt="Repositories per Language" />
+<img width="100%" src="./profile-summary-card-output/solarized/0-profile-details.svg" alt="Profile Details" />
 
-<img height="180em" src="./profile-summary-card-output/solarized/3-stats.svg" alt="GitHub Stats" />
+<img width="49%" src="./profile-summary-card-output/solarized/1-repos-per-language.svg" alt="Repositories per Language" />
+<img width="49%" src="./profile-summary-card-output/solarized/2-most-commit-language.svg" alt="Most Commit Language" />
+
+<img width="49%" src="./profile-summary-card-output/solarized/3-stats.svg" alt="GitHub Stats" />
+<img width="49%" src="./profile-summary-card-output/solarized/4-productive-time.svg" alt="Productive Time" />
 
 </div>
