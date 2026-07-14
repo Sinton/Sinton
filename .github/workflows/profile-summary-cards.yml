@@ -1,0 +1,34 @@
+name: GitHub Profile Summary Cards
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - .github/workflows/profile-summary-cards.yml
+
+jobs:
+  build:
+    name: Generate profile summary cards
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || github.token }}
+        with:
+          USERNAME: Sinton
+          BRANCH_NAME: main
+          UTC_OFFSET: 8
+          EXCLUDE: ""
+          AUTO_PUSH: true
+          THEME: solarized
+          ANIMATION: ""
+          DURATION: ""
+          NAME: Sinton

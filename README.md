@@ -133,10 +133,12 @@
 
 ## GitHub 电讯
 
+由 GitHub Actions 定时生成静态 SVG，避免依赖第三方实时接口。
+
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sinton&theme=solarized" alt="Repositories per Language" />
+<img height="180em" src="./profile-summary-card-output/solarized/1-repos-per-language.svg" alt="Repositories per Language" />
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sinton&theme=solarized" alt="GitHub Stats" />
+<img height="180em" src="./profile-summary-card-output/solarized/3-stats.svg" alt="GitHub Stats" />
 
 </div>
